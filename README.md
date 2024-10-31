@@ -20,7 +20,6 @@ $NIGHT Token: The native $NIGHT token fuels the Evergreen ecosystem, functioning
 
 
 User-Generated Content (UGC): Evergreen champions player creativity by allowing them to craft and trade unique items called Keys, effectively acting as game mods. This innovative approach fosters a vibrant in-game economy, rewarding players for their contributions.
-Vision
 
 
 Midnight aspires to revolutionize the gaming landscape with Evergreen by:
