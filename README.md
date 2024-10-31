@@ -1,5 +1,3 @@
-Evergreen
-Introduction
 Evergreen is the first deconstructed MMO built by Midnight, a premium AA game publisher in Web3. This platform allows players to experience immersive gameplay across various games and genres, with the Evergreen Companion app serving as a social hub. Evergreen is currently the largest Aptos gaming project to date and will be the first token in the 'APT20' class to launch.
 
 Key Features:
